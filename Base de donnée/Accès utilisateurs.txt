@@ -1,0 +1,13 @@
+
+email : jean-francois_d@hotmail.com
+password : dib
+Hiérarchie : SuperAdmin
+
+
+email : frederic.gaufriez@gmail.com
+password : fred
+Hiérarchie : Admin
+
+email : nicolas.georges@gmail.com
+password : nico
+Hiérarchie : User

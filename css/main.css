@@ -1,0 +1,41 @@
+/* Websites css */
+
+td {
+    color: #452424;
+}
+
+td i {
+    color: #441313;
+}
+
+td img {
+    width: 50px;
+    transform: scale(1);
+    transition: .3s ease-in-out;
+}
+
+td img:hover {
+    cursor: pointer;
+    transform: scale(1.4);
+}
+
+.carousel-inner img {
+    width: 82px;
+}
+
+h1 {
+    text-decoration: none;
+}
+
+h1 i {
+    font-size: 3.5rem;
+}
+
+.container-fluid i {
+    font-size: 3rem;
+    color: #182639;
+}
+
+small i {
+    font-size: 2.5rem;
+}
